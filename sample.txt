@@ -1,5 +1,6 @@
-hello this is for track
-
-this is second line 
-the manoj is editing
+<<<<<<< HEAD
+Your local changes
+=======
+Incoming changes from origin/manoj
+>>>>>>> origin/manoj
 
